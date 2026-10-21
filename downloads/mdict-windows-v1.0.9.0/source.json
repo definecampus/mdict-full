@@ -1,0 +1,11 @@
+{
+  "source": "https://github.com/liuyug/mdict-utils/releases/tag/v1.0.9.0",
+  "release_tag": "v1.0.9.0",
+  "executable": "downloads/mdict-windows-v1.0.9.0/mdict.exe",
+  "bytes": 10854172,
+  "sha256": "eeafd6c09679deda44c4907eac5570868813a608ecff9b4de097022ed6f56539",
+  "pe_machine": "0x8664",
+  "architecture": "Windows x86-64 (64-bit)",
+  "runtime_tested": false,
+  "runtime_test_note": "This workspace is Linux and has no Wine installed."
+}
